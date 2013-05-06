@@ -1,7 +1,7 @@
 Package: com.egistli.tweak.xuiteyovelox
 Name: Xuite Yo Velox
-Depends: firmware (>= 6.0), velox.178
-Version: 0.0.1-11
+Depends: firmware (>= 6.0), com.apextweaks.velox
+Version: 0.0.1-12
 Architecture: iphoneos-arm
 Description: An awesome folder for Velox!
 Maintainer: Egist Li
